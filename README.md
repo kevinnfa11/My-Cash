@@ -1,0 +1,2 @@
+# My-Cash
+My Cash adalah project aplikasi pengembangan berbasis android. Proyek ini akan menghasilkan pengembangan perangkat lunak yang mendukung UMKM dalam meningkatkan keakuratan dalam manajemen keuangan UMKM. Meskipun perangkat lunak seperti buku besar saat ini tersedia, kami yakin bahwa perkembangan teknologi baru akan memungkinkan tim kami mengembangkan solusi yang jauh lebih unggul dari yang tersedia saat ini.
